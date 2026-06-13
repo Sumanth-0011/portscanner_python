@@ -1,5 +1,5 @@
 Name:G Sumanth
-Project Name: password strength checker 
+Project Name: port scanner(python)
 NO OF WEEKS: 6 weeks 
 Project Scope:Multi-Threaded Port Scanner
 Intern ID:CITS2197
